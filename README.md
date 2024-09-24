@@ -25,7 +25,7 @@
 ## 📫 Como me encontrar:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-perfil) 
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:seu-email@gmail.com)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:alan.melo255@gmail.com)
 
 ---
 
