@@ -1,32 +1,31 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Olá, sou ALAN LIMA!
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, I'm ALAN LIMA!
 
-## 🚀 Sobre mim
-- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** no [Instituto Federal de Educação, Ciência e Tecnologia do Ceará](https://ifce.edu.br)
-- 🛠️ Trabalhando em projetos pessoais e universitários para melhorar minhas habilidades.
+## 🚀 About Me
+- 🎓 Student of **Systems Analysis and Development** at the [Federal Institute of Education, Science, and Technology of Ceará](https://ifce.edu.br)
+- 🛠️ Working on personal and university projects to improve my skills.
 
-## 📈 Estatísticas do GitHub e Linguagens Mais Utilizadas
+## 📈 GitHub Stats and Most Used Languages
 
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=alanlima0&show_icons=true&theme=dracula" alt="Estatísticas GitHub" />
+      <img src="https://github-readme-stats.vercel.app/api?username=alanlima0&show_icons=true&theme=dracula" alt="GitHub Stats" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanlima0&layout=compact&theme=dracula" alt="Linguagens Mais Utilizadas" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanlima0&layout=compact&theme=dracula" alt="Most Used Languages" />
     </td>
   </tr>
 </table>
 
-## 🌱 O que estou aprendendo atualmente?
+## 🌱 What am I currently learning?
 
-- 🔥 **Estruturas de Dados**
-- 🌐 **Banco de Dados e Modelagem Relacional**
+- 🔥 **Data Structures**
+- 🌐 **Django REST Framework**
 
-## 📫 Como me encontrar:
+## 📫 How to reach me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-perfil) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile) 
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:alan.melo255@gmail.com)
 
----
 
-![GIF de Programação](https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif)
+
