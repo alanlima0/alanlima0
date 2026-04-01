@@ -1,30 +1,29 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, I'm ALAN LIMA!
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Olá, eu sou ALAN LIMA!
 
-## 🚀 About Me
-- 🎓 Student of **Systems Analysis and Development** at the [Federal Institute of Education, Science, and Technology of Ceará](https://ifce.edu.br)
-- 🛠️ Working on personal and university projects to improve my skills.
+## 🚀 Sobre Mim
+- 🎓 Tecnólogo em **Análise e Desenvolvimento de Sistemas** pelo [Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE)](https://ifce.edu.br)
+- 💻 **Desenvolvedor Fullstack** com foco principal em Backend (Python/Django), mas com experiência prática na construção de interfaces modernas com React.
+- 🛠️ Sempre desenvolvendo projetos para resolver problemas reais e aprimorar minhas habilidades em arquitetura de sistemas e APIs.
 
-## Linguages
+## 💻 Projetos em Destaque
+- **ClinicSys:** Sistema completo de gestão de clínicas (cadastro de pacientes, gerenciamento de filas, prontuário eletrônico e módulo financeiro). Desenvolvido com **Django REST Framework** (API) e **React** (Frontend).
+
+## 🧰 Linguagens e Tecnologias
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-</div>
-
-
-## 🛠️ Tools and Technologies I Work With:
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" width="40" height="40"/>
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="40" height="40" style="background-color: white; border-radius: 5px; margin-left: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="40" height="40" style="background-color: white; border-radius: 5px;"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" width="40" height="40"/>
-  <img src="https://wac-cdn.atlassian.com/dam/jcr:2f7db492-c688-401b-93cf-70215edeade5/Sourcetree%20ios%20app%20icon%20beta%20shadow%20red.svg?cdnVersion=2464" alt="SourceTree" width="50" height="50"/>
 </div>
 
-## 📈 GitHub Stats and Most Used Languages
+## 📈 GitHub Stats e Linguagens Mais Usadas
 
 <table>
   <tr>
@@ -37,12 +36,12 @@
   </tr>
 </table>
 
-## 🌱 What am I currently learning?
+## 🌱 O que estou aprendendo/aprimorando atualmente?
+- 🔥 **Estruturas de Dados e Algoritmos**
+- 🌐 **Aprofundamento em Django REST Framework e Arquitetura de APIs**
+- ⚛️ **Boas práticas e Hooks avançados no React**
 
-- 🔥 **Data Structures**
-- 🌐 **Django REST Framework**
-
-## 📫 How to reach me:
+## 📫 Como me encontrar:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile) 
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:alan.melo255@gmail.com)
